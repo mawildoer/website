@@ -18,4 +18,4 @@ While studying at Swinburne University I won the Vice-Chancellor’s Scholarship
 
 Most people say their time at University is the best years of their lives, but I am hungry for a real challenge. I still firmly believe that revolutionary products can upheave even an entrenched, antiquated industry.
 
-#### What’s your mission?
+**What’s your mission?**

@@ -1,21 +1,30 @@
 +++
 author = "Matt Wildoer"
-title = "Introduction"
+title = "Key Skills"
 date = "2020-03-13"
-description = "A little about me"
+description = "What I do best"
 tags = [
     "intro",
 ]
 +++
 
-I go to sleep dreaming of how to change the world and wake hungry to try. I love complex problem solving and adore the beauty of a simple solution. Mechanical, electrical, software or processes, I live to create. Simply put, I have a passion for engineering.
+**What I do best**
 
-I am fortunate to have a father who shares this passion which infected me from a young age. When I entered the world of R&D, the internet was in its infancy, materials were scarce and tools limited. I had to become resourceful, work hard and build only what was required. To this day I remain hooked on what I now know as rapid, iterative prototyping and MVP development; construction of the cheapest, quickest way to a clear set of goals.
 
-The constant push for faster and better drove me to construct my own tools, including multiple machining centres and 3D printers. As part of a consulting business, I co-founded at age eighteen I have developed systems ranging from a patent pending dental implant screw to a parametric precast concrete fabrication system. My proudest achievement during this time was development of a machining center capable of manufacturing high precision metal parts from scratch with the ease of a 3D printer.
+### Rapid Prototyping
+From software, electronics, mechanical, CNC machining to debugging circuit boards, I have the expertise and expereience to get a representative prototype running quickly and cost-effectively delviering the imperative real-world data needed to move forward with confidence. 
 
-While studying at Swinburne University I won the Vice-Chancellor’s Scholarship for Achedemic Excellence, the BMW Smart Cities Scholarship - which included a trip to Germany, the Fred Molyneaux Prize for Best Final Year Project and membership to the Golden Key International Honours Society for my graduating GPA of 3.5.
+### Value Focus
+Context is everything. I ensure I understand the background so I can focus on what matters to the project and deliver. 
 
-Most people say their time at University is the best years of their lives, but I am hungry for a real challenge. I still firmly believe that revolutionary products can upheave even an entrenched, antiquated industry.
+### Problem Solving
+I break problems down to their core to devise 
 
-#### What’s your mission?
+### Software Development
+From chasing micro-seconds in an embedded real-time system, constructing AI-enabled robots to building this website, software is what I do best.
+
+### Iteration
+Revolution doesn't happen without a few mistakes. I develop to minimise the cost of missteps and try, try again.
+
+### Communication
+I put in the effort to ensure that I we are on the same page. I am not shy of a crowd and excel in presentation.
