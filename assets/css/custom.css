@@ -1,9 +1,0 @@
-.sidebar .logo-title .title img {
-	width: 300px;
-}
-
-@media screen and (max-width:960px),print {
-	.content {
-		margin-top: 600px;
-	}
-}
